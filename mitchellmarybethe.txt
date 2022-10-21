@@ -1,0 +1,194 @@
+Iteration 0  2022-09-06 10:51:55.302512
+-------------------------------
+Test..............test_about_010
+Description.......Should return AU login id
+URL...............localhost:8080/about
+ExpectedResults...mem0250
+ActualResults.....mem0250
+Asssessment.......PASSED
+
+
+
+
+
+
+Iteration 1 2022-09-06 10:51:55.308115
+-------------------------------
+Test..............test 005
+Description.......Should Rotate F On Nominal Cube
+URL...............localhost:8080/rubik?op=rotate&dir=F&cube=wowrwwrbwgbbgyyggyorgbrwbyorwboogrbgyywybryryooowgobgr
+ExpectedResults...{'cube': 'rrwbwowwwybbryyygyorgbrwbyorwoooorboyywybrggbgggwgobgr', 'status': 'ok'}
+ActualResults.....{'cube': 'rrwbwowwwybbryyygyorgbrwbyorwoooorboyywybrggbgggwgobgr', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 010
+Description.......Should Rotate f On Nominal Cube
+URL...............localhost:8080/rubik?op=rotate&dir=f&cube=ggororgyogyrwgbbgyorwowbrwbgoywrbwgoboygyrwbyborwbyryw
+ExpectedResults...{'cube': 'orogoygrgryrogbbgyorwowbrwbgoywrbwgwboygyrgwbybowbyryw', 'status': 'ok'}
+ActualResults.....{'cube': 'orogoygrgryrogbbgyorwowbrwbgoywrbwgwboygyrgwbybowbyryw', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 015
+Description.......Should Rotate R On Nominal Cube
+URL...............localhost:8080/rubik?op=rotate&dir=R&cube=wygrbgbygoowbgrowrybooyrobwbwybrygwwrwrgwggoyrgbroyboy
+ExpectedResults...{'cube': 'wybrbybyyobowgorrwybogyrrbwbwybrygwwrwggwggogrgorooboy', 'status': 'ok'}
+ActualResults.....{'cube': 'wybrbybyyobowgorrwybogyrrbwbwybrygwwrwggwggogrgorooboy', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 020
+Description.......Should Rotate r On Nominal Cube
+URL...............localhost:8080/rubik?op=rotate&dir=r&cube=rogwwgryoygbrgggroywooybbrygggwborbbwrowrywbrwoyyoybbw
+ExpectedResults...{'cube': 'roowwyryrbgoggryrgwwoyybyrygggwborbbwrbwrowbywogyogbbo', 'status': 'ok'}
+ActualResults.....{'cube': 'roowwyryrbgoggryrgwwoyybyrygggwborbbwrbwrowbywogyogbbo', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 025
+Description.......Should Rotate B On Nominal Cube
+URL...............localhost:8080/rubik?op=rotate&dir=B&cube=yoygrwgyrwobygwgywobrbbybobwrggwbogboowwygrrrybororgwy
+ExpectedResults...{'cube': 'yoygrwgyrwoyygwgygbboobbbyrwrgowbogbbwwwygrrrybororwgo', 'status': 'ok'}
+ActualResults.....{'cube': 'yoygrwgyrwoyygwgygbboobbbyrwrgowbogbbwwwygrrrybororwgo', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 030
+Description.......Should Rotate b On Nominal Cube
+URL...............localhost:8080/rubik?op=rotate&dir=b&cube=ygogyrwyrygobggwbgbwywbworwwwrrrorobgbryoyobggrbywoyob
+ExpectedResults...{'cube': 'ygogyrwyryggbgbwbrywwwbrbwoywrorobobrrwyoyobggrbywoggo', 'status': 'ok'}
+ActualResults.....{'cube': 'ygogyrwyryggbgbwbrywwwbrbwoywrorobobrrwyoyobggrbywoggo', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 035
+Description.......Should Rotate L On Nominal Cube
+URL...............localhost:8080/rubik?op=rotate&dir=L&cube=rooboowoororrwrryygwogbywbyywwbgggybgrbbywbgwyyggrwbro
+ExpectedResults...{'cube': 'goobooboororrwrryygwbgbgwbygbyygwbgwyrbyywogwrygbrwwro', 'status': 'ok'}
+ActualResults.....{'cube': 'goobooboororrwrryygwbgbgwbygbyygwbgwyrbyywogwrygbrwwro', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 040
+Description.......Should Rotate l On Nominal Cube
+URL...............localhost:8080/rubik?op=rotate&dir=l&cube=ywowoyoywgrwrwgbbybbyyborbggoowybwgrbggrgwrgywororroyb
+ExpectedResults...{'cube': 'wwoooyoywgrwrwgbbybbrybrrbbobroyggwwyggwgwogygororryyb', 'status': 'ok'}
+ActualResults.....{'cube': 'wwoooyoywgrwrwgbbybbrybrrbbobroyggwwyggwgwogygororryyb', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 045
+Description.......Should Rotate U On Nominal Cube
+URL...............localhost:8080/rubik?op=rotate&dir=l&cube=rbrwrrwrboggyyooyrwyowwrborwwgobgobgygbygbyryygwwoobbg
+ExpectedResults...{'cube': 'ybrwrrbrboggyyooyrwyywwyboygggwbbwoorgbwgbwryrgwrooobg', 'status': 'ok'}
+ActualResults.....{'cube': 'ybrwrrbrboggyyooyrwyywwyboygggwbbwoorgbwgbwryrgwrooobg', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 050
+Description.......Should Rotate u On Nominal Cube
+URL...............localhost:8080/rubik?op=rotate&dir=u&cube=ggyrrggwwowrobbryrgbwroowobobybygrrbbgywgooyworbywwgyy
+ExpectedResults...{'cube': 'obyrrggwwggyobbryrowrroowobgbwbygrrbyowggybwoorbywwgyy', 'status': 'ok'}
+ActualResults.....{'cube': 'obyrrggwwggyobbryrowrroowobgbwbygrrbyowggybwoorbywwgyy', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 055
+Description.......Should Rotate D On Nominal Cube
+URL...............localhost:8080/rubik?op=rotate&dir=D&cube=bwogywywywyyrooooooggwwbwyrwygogrgorbbrgrbygrgbbrbywrb
+ExpectedResults...{'cube': 'bwogywgorwyyrooywyoggwwbooowygogrwyrbbrgrbygrwrgrbbbyb', 'status': 'ok'}
+ActualResults.....{'cube': 'bwogywgorwyyrooywyoggwwbooowygogrwyrbbrgrbygrwrgrbbbyb', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 060
+Description.......Should Rotate d On Nominal Cube
+URL...............localhost:8080/rubik?op=rotate&dir=d&cube=wygbywgwrbyrgoobwgygorbrbryyyobgowgywyorrwbowroobwbggr
+ExpectedResults...{'cube': 'wygbywbwgbyrgoobryygorbrwgyyyobgogwrwyorrwbowobrowgrbg', 'status': 'ok'}
+ActualResults.....{'cube': 'wygbywbwgbyrgoobryygorbrwgyyyobgogwrwyorrwbowobrowgrbg', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 065
+Description.......Should Rotate On Multiple Rotations
+URL...............localhost:8080/rubik?op=rotate&dir=RDDbuldDfuBRdBdLubuflDDDl&cube=rywbyoboybwggobgwgwwwgwgybogroybrryybooyrgybrrrbogrwwo
+ExpectedResults...{'cube': 'goggyyoyywoygobbryorwwwwgbgbyyrbowgwrbrrrwoyorbrwgobgb', 'status': 'ok'}
+ActualResults.....{'cube': 'goggyyoyywoygobbryorwwwwgbgbyyrbowgwrbrrrwoyorbrwgobgb', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 070
+Description.......Should Rotate On Empty Rotation
+URL...............localhost:8080/rubik?op=rotate&dir=&cube=bwwgrrbbrboyyoryoywroowyrywrrowywggwgbggbbrboyybogwogg
+ExpectedResults...{'cube': 'bgbbrwrrwroyborooywroowyrywrrywyyggbgbggbbwwoyybogwogg', 'status': 'ok'}
+ActualResults.....{'cube': 'bgbbrwrrwroyborooywroowyrywrrywyyggbgbggbbwwoyybogwogg', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 075
+Description.......Should Rotate On Missing Rotation
+URL...............localhost:8080/rubik?op=rotate&cube=gooryrrrrggwwgyybwoygbwbgobogygrbywbwgrwbobyywyooowrrb
+ExpectedResults...{'cube': 'rrgryorrobgwygyybwoygbwbgobogwgryywowgrwbobbyywgoowrrb', 'status': 'ok'}
+ActualResults.....{'cube': 'rrgryorrobgwygyybwoygbwbgobogwgryywowgrwbobbyywgoowrrb', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 080
+Description.......Should Rotate On Inverted Parm Order
+URL...............localhost:8080/rubik?dir=F&op=rotate&cube=owwoygrwoybbywowyyyrygoorrorrgrrwbboggwbbowygggbwgbryb
+ExpectedResults...{'cube': 'roowywogwwbbywogyyyrygoorrorrgrrgbbbggwbboowgwyywgbryb', 'status': 'ok'}
+ActualResults.....{'cube': 'roowywogwwbbywogyyyrygoorrorrgrrgbbbggwbboowgwyywgbryb', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 085
+Description.......Should Rotate On Extraneous Keys
+URL...............localhost:8080/rubik?op=rotate&dir=F&extraneous=key&cube=boywgbrbygroywggbbgwoorwgowworrybryyrgwroyyyoorbgbgbww
+ExpectedResults...{'cube': 'rwbbgoybyyroywgobbgwoorwgowwooryrrybrgwroyybrgyggbgbww', 'status': 'ok'}
+ActualResults.....{'cube': 'rwbbgoybyyroywgobbgwoorwgowwooryrrybrgwroyybrgyggbgbww', 'status': 'ok'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 905
+Description.......Should Err On Missing Cube
+URL...............localhost:8080/rubik?op=rotate&dir=F
+ExpectedResults...{'status': 'error: '}
+ActualResults.....{'status': 'error: invalid cube'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 910
+Description.......Should Err On Short Cube
+URL...............localhost:8080/rubik?op=rotate&dir=F&cube=bbbbbbbbb
+ExpectedResults...{'status': 'error: '}
+ActualResults.....{'status': 'error: invalid cube'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 915
+Description.......Should Err On Long Cube
+URL...............localhost:8080/rubik?op=rotate&dir=F&cube=bbbbbbbbbrrrrrrrrrgggggggggoooooooooyyyyyyyyywwwwwwwwwb
+ExpectedResults...{'status': 'error: '}
+ActualResults.....{'status': 'error: invalid cube'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 920
+Description.......Should Err On Cube With Illegal Characters
+URL...............localhost:8080/rubik?op=rotate&dir=F&cube=bbbbbbbbbrrrrrrrrr666666666oooooooooyyyyyyyyywwwwwwwww
+ExpectedResults...{'status': 'error: '}
+ActualResults.....{'status': 'error: invalid cube'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 925
+Description.......Should Err On Cube With != 9 Occurrences Of Legal Characters
+URL...............localhost:8080/rubik?op=rotate&dir=F&cube=bbbbbbbbbrrrrrrrrrgggggggggoooooooooyyyyyyyyywwwwwwwwb
+ExpectedResults...{'status': 'error: '}
+ActualResults.....{'status': 'error: invalid cube'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 930
+Description.......Should Err On Cube With Non-Unique Middle Elements
+URL...............localhost:8080/rubik?op=rotate&dir=F&cube=rbbbbbbbbrrrrbrrrrgggggggggoooooooooyyyyyyyyywwwwwwwww
+ExpectedResults...{'status': 'error: '}
+ActualResults.....{'status': 'error: invalid cube'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 935
+Description.......Should Err On Invalid Single Rotation
+URL...............localhost:8080/rubik?op=rotate&dir=x&cube=bbbbbbbbbrrrrrrrrrgggggggggoooooooooyyyyyyyyywwwwwwwww
+ExpectedResults...{'status': 'error: '}
+ActualResults.....{'status': 'error: invalid rotation'}
+Asssessment.......PASSED
+-------------------------------
+Test..............test 940
+Description.......Should Err On Invalid Multiple Rotation
+URL...............localhost:8080/rubik?op=rotate&dir=FF FF&cube=bbbbbbbbbrrrrrrrrrgggggggggoooooooooyyyyyyyyywwwwwwwww
+ExpectedResults...{'status': 'error: '}
+ActualResults.....{'status': 'error: invalid rotation'}
+Asssessment.......PASSED
+
+Test Name: Iteration 1
+	Tests Passed;  25
+	Tests Failed;  0
