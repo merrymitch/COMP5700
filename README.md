@@ -4,7 +4,7 @@ Secure Software Process
 
 ```
 
-    Total Views per Day from 2022-10-06 to 2022-10-26
+    Total Views per Day from 2022-10-06 to 2022-10-27
 
     Repository Views
    39.00  ┼                  ╭╮
@@ -19,11 +19,11 @@ Secure Software Process
    15.60  ┤           ╭╯│╭╮││││
    13.00  ┤          ╭╯ │││││││
    10.40  ┤          │  │││││││
-    7.80  ┤      ╭╮  │  ││╰╯╰╯╰
-    5.20  ┼╮     ││  │  ││
-    2.60  ┤╰╮    ││  │  ││
-    0.00  ┤ ╰────╯╰──╯  ╰╯
+    7.80  ┤      ╭╮  │  ││╰╯╰╯╰╮
+    5.20  ┼╮     ││  │  ││     │
+    2.60  ┤╰╮    ││  │  ││     │
+    0.00  ┤ ╰────╯╰──╯  ╰╯     ╰
 
-    Chart last updated - Wed Oct 26 23:59:05 2022 UTC
+    Chart last updated - Thu Oct 27 23:59:10 2022 UTC
     
 ```
