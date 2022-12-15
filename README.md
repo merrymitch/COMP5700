@@ -1,9 +1,10 @@
 # COMP 5700
-- Secure Software Process Project Iterations
-- DISCLAIMER: By duplicating, copying, or redistributing material found in this the website and GitHub Repository, you(the "User") are in direct violation of Auburn University Title XII Student Academic Honesty Code: Violations 1201.4 (Violations of the Student Academic Honesty Code).
+COMP 5700 Project Iterations
+Secure Software Process
+
 ```
 
-        Total Views per Day from 2022-10-06 to 2022-12-14
+        Total Views per Day from 2022-10-06 to 2022-12-15
 
         Repository Views
       39 ┼                  ╭╮
@@ -15,14 +16,14 @@
       23 ┤                ││││    ╭╮
       21 ┤            ╭╮  ││││    ││
       18 ┤            ││  ││││    ││
-      16 ┤           ╭╯│╭╮││││    ││
-      13 ┤          ╭╯ │││││││    ││
-      10 ┤          │  │││││││    ││
-       8 ┤      ╭╮  │  ││╰╯╰╯╰╮   ││
-       5 ┼╮     ││  │  ││     │╭╮ ││     ╭╮ ╭╮
-       3 ┤╰╮    ││  │  ││     │││ ││     ││ ││
-       0 ┤ ╰────╯╰──╯  ╰╯     ╰╯╰─╯╰─────╯╰─╯╰─────────────────────────────────
+      16 ┤           ╭╯│╭╮││││    ││                                           ╭
+      13 ┤          ╭╯ │││││││    ││                                           │
+      10 ┤          │  │││││││    ││                                           │
+       8 ┤      ╭╮  │  ││╰╯╰╯╰╮   ││                                           │
+       5 ┼╮     ││  │  ││     │╭╮ ││     ╭╮ ╭╮                                 │
+       3 ┤╰╮    ││  │  ││     │││ ││     ││ ││                                 │
+       0 ┤ ╰────╯╰──╯  ╰╯     ╰╯╰─╯╰─────╯╰─╯╰─────────────────────────────────╯
 
-        Chart last updated - Wed Dec 14 23:59:01 2022 UTC
+        Chart last updated - Thu Dec 15 23:58:58 2022 UTC
         
 ```
