@@ -4,11 +4,11 @@ Secure Software Process
 
 ```
 
-        Total Views per Day from 2023-05-17 to 2023-08-14
+        Total Views per Day from 2023-05-18 to 2023-08-15
 
         Repository Views
        0 ┼─────────────────────────────────────────────────────────────────────────────────────────
 
-        Chart last updated - Mon Aug 14 23:59:05 2023 UTC
+        Chart last updated - Tue Aug 15 23:59:08 2023 UTC
         
 ```
